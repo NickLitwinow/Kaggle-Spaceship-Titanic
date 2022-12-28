@@ -12,3 +12,7 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 
 
 # Files Description
+- spaceship-titanic.ipynb – Whole pipeline, including EDA, LGBM model etc...
+- sample-submission.csv - Sample submission (Used as a submission file as well)
+- train.csv – Train data
+- test.csv – Test data
