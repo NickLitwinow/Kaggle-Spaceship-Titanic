@@ -3,6 +3,8 @@
 
 # Kaggle Spaceship Titanic
 
+(https://www.kaggle.com/code/nicklitwinow/spaceship-titanic-max-accuracy-0-80102)
+
 This project addresses the Kaggle Spaceship Titanic challenge. A mysterious spacetime anomaly has caused nearly half of the passengers to be transported to an alternate dimension. The objective is to predict which passengers were affected using the available onboard data.
 
 ## Project Overview
